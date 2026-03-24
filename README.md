@@ -51,12 +51,13 @@ focus:
 
 currently_learning:
   - MERN Stack (Full-Stack)
+   - Video Editing
   - System Design Fundamentals
   - AI/ML Basics
 
 hobbies:
   - Coding
-  - Video Editing
+  - reading 
   - Formula 1
   - Hackathons
 
@@ -71,11 +72,11 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttkarsh-chambiyal-3495a8380/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.uttkarshchambiyal.com/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:uttkarshchambiyal26@gmail.com)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/uttkarshx26)
-![Profile Views](https://komarev.com/ghpvc/?username=Uttkarshchambiyal&style=flat-square&color=C77DFF&label=views)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-sharma-43306b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishsharma23032007@gmail.com)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)]()
+![Profile Views](https://komarev.com/ghpvc/?username=krishsharma23032007&style=flat-square&color=C77DFF&label=views)
 
 </div>
 
@@ -105,11 +106,11 @@ open_to:
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Uttkarshchambiyal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jOyIy7spb9/)
 &nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/uttkarshchambiyal/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]()
 &nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_krish_07)
 
 </div>
 
