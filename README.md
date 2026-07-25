@@ -16,7 +16,7 @@
 <!-- TYPING - ROLES -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=B.Tech+CSE+Student+%7C+Semester+2;Frontend+Developer+%7C+DSA+Practitioner;Problem+Solver+%7C+Open+to+Internships+%26+Hackathons)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=B.Tech+CSE+Student+%7C+Semester+3;Frontend+Developer+%7C+DSA+Practitioner;Problem+Solver+%7C+Open+to+Internships+%26+Hackathons)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,7 +41,7 @@ A Passionate Developer and Problem Solver
 name      : Krish Sharma
 role      : B.Tech CSE Student
 location  : Bengaluru, Karnataka, India
-degree    : B.Tech CSE  |  Semester 2
+degree    : B.Tech CSE  |  Semester 3
 
 focus:
   - Frontend Development
