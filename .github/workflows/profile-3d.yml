@@ -1,0 +1,31 @@
+name: Update contribution skyline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 22 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Generate animated skyline
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/contribution-skyline.json
+      - name: Save updated skyline
+        run: |
+          git add -- profile-3d-contrib/profile-night-green-animate.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m "Update contribution skyline"
+          git push
