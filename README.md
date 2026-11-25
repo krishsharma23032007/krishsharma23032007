@@ -119,7 +119,7 @@ open_to:
 ### `> git --contributions`
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green-animate.svg" alt="Animated dark green 3D skyline of my GitHub contributions" width="100%" />
+<img src="./download.svg" alt="Animated 3D skyline of my GitHub contributions" width="100%" />
 </div>
 
 ---
