@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-night-green-animate.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#e6edf3",
+  "strongColor": "#3fb950",
+  "weakColor": "#8b949e",
+  "radarColor": "#2ea043",
+  "contribColors": ["#21262d", "#0e4429", "#006d32", "#26a641", "#39d353"],
+  "growingAnimation": true
+}
