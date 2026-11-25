@@ -51,13 +51,13 @@ focus:
 
 currently_learning:
   - MERN Stack (Full-Stack)
-   - Video Editing
+  - Video Editing
   - System Design Fundamentals
   - AI/ML Basics
 
 hobbies:
   - Coding
-  - reading 
+  - reading
   - Formula 1
   - Hackathons
 
@@ -116,6 +116,14 @@ open_to:
 
 ---
 
+### `> git --contributions`
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green-animate.svg" alt="Animated dark green 3D skyline of my GitHub contributions" width="100%" />
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
@@ -127,5 +135,3 @@ open_to:
 <sub>made with <b>💜</b> &nbsp;|&nbsp; <b>Krish Sharma</b> &nbsp;|&nbsp; Bengaluru 2026</sub>
 
 </div>
-
-
